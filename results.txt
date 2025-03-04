@@ -1,0 +1,9 @@
+* = NaN
+69*69 = Neznámá operace
+* 5 6 = 30
+Chyba: Neplatný formát
+5 * 5 = 25
+Výsledek: 11
+Výsledek: Chyba: Neplatný vstup
+Výsledek: Chyba: Neznámá operace
+Výsledek: 25
